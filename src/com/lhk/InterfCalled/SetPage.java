@@ -1,4 +1,4 @@
-package com.lhk.atest;
+package com.lhk.InterfCalled;
 
 public interface SetPage {
 
